@@ -1,0 +1,224 @@
+*{
+    font-family: 'Montserrat', sans-serif;
+}
+
+.orange-btn {
+    width: 8rem;
+    height: 2.7rem;
+    color: #fff;
+    background-color: #FF7629;
+    border: 1px solid #FF7629;
+    border-radius: 50px;
+    margin: 20px 9px 0 0;
+}
+
+.white-btn {
+    width: 8rem;
+    height: 2.7rem;
+    background-color: #fff;
+    border: 1px solid #000;
+    border-radius: 50px;
+    margin: 9px 0 0 20px;
+}
+
+.brgr {
+    color: #FF7629;
+}
+
+.navbar-br {
+    font-weight: bold;
+    font-size: 2rem;
+    text-decoration: none;
+    padding: 0 3% 0.5% 0;
+    color: #000;
+}
+
+.desc {
+    font-size: 1.2rem;
+    color: #757575;
+}
+
+.main-head{
+    margin: 11% 54% 15% 10%;
+}
+
+.bg-og{
+    background-color: #FF7629;
+}
+
+.upRight{
+    position: relative;
+    bottom: 76%;
+    right: 20%;
+    width: 80%;
+}
+
+.upLeft{
+    position: relative;
+    bottom: 14.6%;
+    left: 17%;
+    width: 60%;
+}
+
+
+.menu-row {
+    margin: 0 0;
+}
+
+.menu-col {
+    margin: 7% 0% 0%;
+    border-radius: 10%;
+    text-align: center;
+}
+
+.menu-img {
+    width: 90%;
+    margin: 13%;
+}
+
+.ap {
+    text-align: center;
+}
+
+.apps-img {
+    display: inline;
+    width: 50%;
+    margin-top: 1rem;
+    margin-left: 20%;
+}
+
+.aps{
+    background-color: #fff;
+    border: 3px solid #757575;
+    border-radius: 5%;
+    width: 60%;
+    text-align: center;
+    margin-left: 25%;  
+    position: absolute;
+    top: 148%;
+}
+
+
+.history{
+    margin-top: 12%;
+    margin-left: 6%;
+}
+
+.hand{
+    width: 60%;
+    margin-left: 15%;
+    border-radius: 5%;
+}
+.space{
+    margin: 4%;
+}
+.rw-text{
+    margin-top: 5% 0 0 10%;
+    /* text-align: right; */
+}
+
+.coffee{
+    width: 65%;
+    margin-right: 35%;
+    border-radius: 5%;
+}
+
+.chef{
+    text-align: center;
+    margin: 15% 0 0 0;
+
+
+}
+
+.row-chef{
+    padding-left: 20%;
+}
+.chef img {
+    width: 80%;
+}
+
+.chef h5{
+    margin: 4%;
+}
+
+.chef h6{
+    color: #FF7629;
+}
+
+.features{
+    text-align: center;
+    margin: 7% 0 0 0;
+}
+
+.features h4{
+    margin-bottom: 5%;
+}
+.row-fe1{
+    padding-left: 20%;
+    text-align: center;
+    margin-bottom: 3%;
+}
+
+.row-fe1 i{
+    font-size: 5rem;
+    color: #FF7629;
+    margin: 5%;
+}
+
+
+#insta h2{
+    display: inline;
+    margin: 5% 53% 8% 8%;
+}
+
+#insta img{
+    border-radius: 14%;
+    width: 100%;
+}
+
+#insta .col-lg-3{
+    width: 22%;
+}
+
+#insta button{
+    margin-bottom: 5%;
+}
+
+
+
+#last{
+    margin-top: 18%;
+}
+.last-row{
+    margin: 1%;
+}
+
+.st3 img{
+    position: absolute;
+    right: 9%;
+    bottom: -557%;
+    width: 23%;
+}
+
+.st2{
+    display: inline;
+}
+
+.st22{
+    display: inline;
+    position: relative;
+    top: -49%;
+    right: -35%;
+}
+
+.st2 ul, .st22 ul{
+    list-style: none;
+}
+
+.st1{
+    margin-left: 18%;
+}
+
+.last-row{
+    margin-top: 20%;
+}

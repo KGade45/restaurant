@@ -1,0 +1,126 @@
+*{
+    
+    font-family: 'Montserrat', sans-serif;
+}
+
+.orange-btn {
+    width: 8rem;
+    height: 2.7rem;
+    color: #fff;
+    background-color: #FF7629;
+    border: 1px solid #FF7629;
+    border-radius: 50px;
+    margin: 20px 9px 0 0;
+}
+
+.white-btn {
+    width: 8rem;
+    height: 2.7rem;
+    background-color: #fff;
+    border: 1px solid #000;
+    border-radius: 50px;
+    margin: 9px 0 0 20px;
+}
+
+
+.brgr {
+    color: #FF7629;
+}
+
+.navbar-br {
+    font-weight: bold;
+    font-size: 2rem;
+    text-decoration: none;
+    padding: 0 3% 0.5% 0;
+    color: #000;
+}
+
+.desc {
+    font-size: 1.2rem;
+    color: #757575;
+}
+
+
+.start{
+    margin: 8% 0 0 0;
+    text-align: center;
+}
+
+
+#menu {
+    margin: 10% 0 0 0;
+    /* text-align: center; */
+}
+
+.menu-row {
+    margin: 0 0;
+}
+
+.menu-col {
+    margin: 7% 0% 0%;
+    border-radius: 10%;
+    text-align: center;
+}
+
+.menu-img {
+    width: 90%;
+    margin: 13%;
+}
+
+.ap {
+    text-align: center;
+}
+
+.apps-img {
+    display: inline;
+    width: 50%;
+    margin-top: 1rem;
+    margin-left: 20%;
+}
+
+.Apps{
+    text-align: center;
+    margin-bottom: 10%;
+}
+
+.apps-img2{
+    display: inline;
+    width: 70%;
+    margin-top: 1rem;
+    margin-left: 20%;
+}
+
+.dapps-img2{
+    display: inline;
+    width: 140%;
+    margin-top: 1rem;
+    margin-left: 20%;
+}
+
+.st3 img{
+    display: inline;
+    
+}
+
+.st2{
+    display: inline;
+}
+
+.st22{
+    display: inline;
+    position: relative;
+    top: -50%;
+    right: -35%;
+}
+
+.st2 ul, .st22 ul{
+    list-style: none;
+}
+
+.st1{
+    margin-left: 18%;
+}
+
+.last-row{
+    margin-top: 20%;
+}
